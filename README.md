@@ -199,6 +199,21 @@ This document describes discovery, not the full lifecycle.
 
 ---
 
+## How This Translates to Security Engagements
+
+The same anomaly-first method I use for AI systems is how I approach security reviews more broadly.
+
+In audits and red team contexts, this means:
+
+- Identifying where system behavior diverges from operator expectations
+- Isolating minimal trigger conditions
+- Reproducing the behavior reliably
+- Characterizing the failure mode in a way engineers can test and mitigate
+
+I focus on failure discovery and clear handoff, not exploit theatrics.
+
+---
+
 ## Outputs Using This Method
 
 The following public work was discovered and developed using the anomaly-first exploratory method described above:
