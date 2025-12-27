@@ -203,22 +203,16 @@ This document describes discovery, not the full lifecycle.
 
 The following public work was discovered and developed using the anomaly-first exploratory method described above:
 
-### Primary Research Output
-
 | Repository | Description |
 |------------|-------------|
-| **[AI Developmental Standards Monograph](https://github.com/ChristopherPatrickKuntz/ai-developmental-standards-monograph)** | **Comprehensive research monograph (220 pages, 278 references):** Structural mismatch between AI interaction patterns and established developmental standards. Formalizes the Pre-Articulation Observability Boundary, documents the Differential Friction Conditioning mechanism, maps AI behavior to 50 years of Self-Determination Theory research, and proposes the UIVP intervention hypothesis. |
-
-### Supporting Work
-
-| Repository | Description |
-|------------|-------------|
-| [Pre-Articulation Observability Boundary](https://github.com/ChristopherPatrickKuntz/pre-articulation-boundary) | Position paper (extracted from Chapter 3 of the monograph) identifying structural limits of language-based systems. |
+| [Pre-Articulation Observability Boundary](https://github.com/ChristopherPatrickKuntz/pre-articulation-boundary) | Position paper identifying structural limits of language-based systems when meaning has not yet been articulated. |
 | [UIVP Disclosure Summary](https://github.com/ChristopherPatrickKuntz/uivp-disclosure-summary) | Cross-model vulnerability involving premature intent resolution, reproduced and disclosed responsibly. |
 | [Probabilistic Identity Infrastructure](https://github.com/ChristopherPatrickKuntz/probabilistic-identity-security-analysis) | Security analysis of emergent identity systems inferred through behavioral continuity rather than explicit identifiers. |
 | [RevShare Forensic Case Study](https://github.com/ChristopherPatrickKuntz/revshare-forensic-case-study) | Independent forensic analysis of a custodial architecture failure on Solana, examining technical, economic, and incentive-level collapse. |
 
 All outputs are publicly available, scoped, and follow responsible disclosure practices. They are intended to surface failure classes early, before formal benchmarks or mitigations exist.
+
+Some upstream work related to developmental risk in child-facing AI systems exists outside this repository and is not presented here as a technical artifact.
 
 ---
 
