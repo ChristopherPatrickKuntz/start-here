@@ -218,6 +218,15 @@ I focus on failure discovery and clear handoff, not exploit theatrics.
 
 The following public work was discovered and developed using the anomaly-first exploratory method described above:
 
+### Policy Analysis
+
+| Repository | Description |
+|------------|-------------|
+| **[They Lie, and We Lie About the Lying](https://github.com/ChristopherPatrickKuntz/llm-epistemic-honesty)** | **Policy analysis (35 references):** Why "hallucination" is a euphemism. Translates existing research on mathematical inevitability, RLHF sycophancy, self-correction failure, and model collapse into plain language. Recommendations for policymakers, researchers, educators, and AI companies. |
+| [On the Inability of Language Models to Stub Their Toe](https://github.com/ChristopherPatrickKuntz/symbol-grounding-critique) | Position paper on referential collapse and semantic inflation. Demonstrates the disconnect between linguistic competence and grounded understanding. |
+
+### Technical Research
+
 | Repository | Description |
 |------------|-------------|
 | [Pre-Articulation Observability Boundary](https://github.com/ChristopherPatrickKuntz/pre-articulation-boundary) | Position paper identifying structural limits of language-based systems when meaning has not yet been articulated. |
@@ -226,8 +235,6 @@ The following public work was discovered and developed using the anomaly-first e
 | [RevShare Forensic Case Study](https://github.com/ChristopherPatrickKuntz/revshare-forensic-case-study) | Independent forensic analysis of a custodial architecture failure on Solana, examining technical, economic, and incentive-level collapse. |
 
 All outputs are publicly available, scoped, and follow responsible disclosure practices. They are intended to surface failure classes early, before formal benchmarks or mitigations exist.
-
-Some upstream work related to developmental risk in child-facing AI systems exists outside this repository and is not presented here as a technical artifact.
 
 ---
 
